@@ -20,9 +20,12 @@
       <td align="center">
         <a href="https://github.com/eduardodneves/dio-desafio-github/tree/main/Versionamento%20de%20Código%20com%20Git%20e%20GitHub">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    <tr>
+         </a>
+      </td>    
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
 
 ##Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
