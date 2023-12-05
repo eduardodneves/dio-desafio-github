@@ -47,5 +47,3 @@ Sistema de Controle de Versão Distribuído.
 ### GitHub
 Plataforma de hospedagem de código para controle de versão com Git, e colaboração.
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
