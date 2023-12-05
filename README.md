@@ -9,7 +9,6 @@
   </thead>
   <tbody align="left">
     <tr>
-      <td>01</td>
       <td>Visão Geral do Curso e Ferramentas</td>
       <td align="center">
         <a href="https://github.com/eduardodneves/dio-resumos-git-e-github/blob/main/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md">
