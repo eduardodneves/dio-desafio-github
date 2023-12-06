@@ -12,7 +12,7 @@
   <thead>
     <tr align="left">
       <th>Cursos</th>
-      <th>Materiail</th>
+      <th>Material</th>
     </tr>
   </thead>
   <tbody align="left">
